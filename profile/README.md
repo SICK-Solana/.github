@@ -1,9 +1,5 @@
-Here’s a README file template for your S.I.C.K project that describes the overall platform, structure of the repositories, and relevant details.
 
----
-
-# S.I.C.K - Social Investment Crypto Kit
-
+# S.I.C.K - 
 Welcome to **S.I.C.K**, a decentralized investment platform designed to simplify crypto investing for everyone—from beginners to seasoned pros. S.I.C.K combines the power of social sharing with decentralized finance (DeFi) to create a seamless, intuitive experience. Users can flex their gains, copy trades, and share strategies, making crypto investment both social and secure.
 
 Visit the official site at: [sickfreak.club](https://sickfreak.club)
@@ -64,7 +60,7 @@ This is the repository for the consumer-facing application, providing an intuiti
 ### 5. **Frontend V2**
 This repository handles specific frontend features related to OKTO integration, ensuring smooth interaction with third-party services.
 
-- **Tech Stack**: [eact+Vite
+- **Tech Stack**: React+Vite
 - **Main Responsibilities**:
   - OKTO integration as an alternatice
   - Provide a frontend layer for additional DeFi features.
@@ -96,7 +92,3 @@ S.I.C.K is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or support, visit our site at [sickfreak.club](https://sickfreak.club) or reach out to the project maintainer at [rahulsinghhh2312@gmail.com].
-
----
-
-Feel free to customize this template as per your exact requirements!
